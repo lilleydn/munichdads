@@ -12,6 +12,10 @@
   * provide resources and documentation to our users
   * allow collaboration for that content
   * publish changes to Slack
+  * 
+# ToDos
+* add rating to resources
+* add age-appropriateness to resources
 
 ## Wishlist
 * Use Slack Authentication to login to github
