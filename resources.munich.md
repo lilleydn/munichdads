@@ -1,10 +1,10 @@
 # Things to see & do in Munich
-* Tierpark Hellabrunn
-* Deutsches Museum Flugwerft (Unterschleissheim)
-* Deutsches Museum Verkehrszentrum (Schwantalerhöhe)
-* Deutsches Museum (Museumsinsel)
-* If it's raining, Wichtelwerk in Aubing (awesome indoor playground). Wear comfy clothes bc you'll work up a sweat.
-* Picnic / play in the little stream in the Rosengarten by the Isar. 
+* [Tierpark Hellabrunn](http://www.hellabrunn.de/en/)
+* [Deutsches Museum Flugwerft](http://www.deutsches-museum.de/en/flugwerft/information/) (Unterschleissheim)
+* [Deutsches Museum Verkehrszentrum](http://www.deutsches-museum.de/en/verkehrszentrum/information/) (Schwantalerhöhe)
+* [Deutsches Museum](http://www.deutsches-museum.de/en/information) (Museumsinsel)
+* If it's raining, [Wichtelwerk](http://www.wichtel-werk.de/) in Aubing (awesome indoor playground). Wear comfy clothes bc you'll work up a sweat.
+* Picnic / play in the little stream in the *Rosengarten* by the Isar. 
 
 # Things to see and do around Munich
 * [Bergtierpark Blindham](http://www.bergtierpark.de/)
