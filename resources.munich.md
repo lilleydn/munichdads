@@ -4,7 +4,7 @@
 * [Deutsches Museum Verkehrszentrum](http://www.deutsches-museum.de/en/verkehrszentrum/information/) (Schwantalerhöhe)
 * [Deutsches Museum](http://www.deutsches-museum.de/en/information) (Museumsinsel)
 * If it's raining, [Wichtelwerk](http://www.wichtel-werk.de/) in Aubing (awesome indoor playground). Wear comfy clothes bc you'll work up a sweat.
-* Picnic / play in the little stream in the *Rosengarten* by the Isar. 
+* Picnic / play in the little stream in the [Rosengarten](http://www.sueddeutsche.de/muenchen/alternative-sehenswuerdigkeiten-wo-muenchen-noch-urig-ist-1.488877-3) by the Isar (Sachsenstraße 2 (Nähe Schyrenbad), U-Bahn Kolumbusplatz U1/U2). 
 
 # Things to see and do around Munich
 * [Bergtierpark Blindham](http://www.bergtierpark.de/)
