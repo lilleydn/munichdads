@@ -1,10 +1,16 @@
 # Things to see & do in Munich
+## Seen and approved
 * [Tierpark Hellabrunn](http://www.hellabrunn.de/en/)
 * [Deutsches Museum Flugwerft](http://www.deutsches-museum.de/en/flugwerft/information/) (Unterschleissheim)
 * [Deutsches Museum Verkehrszentrum](http://www.deutsches-museum.de/en/verkehrszentrum/information/) (Schwantalerhöhe)
+a sweat.
+
+## next in line for a visit
+* [Museum Mensch und Natur](http://www.mmn-muenchen.de/)
+* If it's raining, [Wichtelwerk](http://www.wichtel-werk.de/) in Aubing (awesome indoor playground). Wear comfy clothes bc you'll work up * Picnic / play in the little stream in the [Rosengarten](http://www.sueddeutsche.de/muenchen/alternative-sehenswuerdigkeiten-wo-muenchen-noch-urig-ist-1.488877-3) by the Isar (Sachsenstraße 2 (Nähe Schyrenbad), U-Bahn Kolumbusplatz U1/U2).
 * [Deutsches Museum](http://www.deutsches-museum.de/en/information) (Museumsinsel)
-* If it's raining, [Wichtelwerk](http://www.wichtel-werk.de/) in Aubing (awesome indoor playground). Wear comfy clothes bc you'll work up a sweat.
-* Picnic / play in the little stream in the [Rosengarten](http://www.sueddeutsche.de/muenchen/alternative-sehenswuerdigkeiten-wo-muenchen-noch-urig-ist-1.488877-3) by the Isar (Sachsenstraße 2 (Nähe Schyrenbad), U-Bahn Kolumbusplatz U1/U2). 
+* [Museum Fünf Kontinente](http://www.museum-fuenf-kontinente.de/services/anfahrt.html)
+* [Bayerische Staatssammlung für Paläontologie und Geologie](http://www.palmuc.de/bspg/index.php?option=com_content&view=article&id=77&Itemid=49)
 
 # Things to see and do around Munich
 * [Bergtierpark Blindham](http://www.bergtierpark.de/)
