@@ -18,10 +18,3 @@
 # Places to go around Munich
 * [Bergtierpark Blindham](http://www.bergtierpark.de/)
 * [Wildtierpark Poing](http://www.wildpark-poing.net/)
-
-# Podcasts talking about being a dad/parent
-* [turningthiscararound.com](http://turningthiscararound.com/)
-* [List of "Top Podcasts for Fathers"](http://fatherhood.about.com/od/dadsblogs/tp/Top-Ten-Podcasts-for-Fathers.htm)
-
-# Twitter and taking it not that seriously
-* [Dad and buried](http://twitter.com/dadandburied)
