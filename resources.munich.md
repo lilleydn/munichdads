@@ -1,9 +1,9 @@
 # Places to take your kid(s) to in Munich
 ## Seen and approved
-* [Tierpark Hellabrunn](http://www.hellabrunn.de/en/)
-* [Deutsches Museum Flugwerft](http://www.deutsches-museum.de/en/flugwerft/information/) (Unterschleissheim)
-* [Deutsches Museum Verkehrszentrum](http://www.deutsches-museum.de/en/verkehrszentrum/information/) (Schwantalerhöhe)
-* [Museum Mensch und Natur](http://www.mmn-muenchen.de/)
+* [Tierpark Hellabrunn](http://www.hellabrunn.de/en/), a zoo like kids love them, recommended by any dad
+* [Deutsches Museum Flugwerft](http://www.deutsches-museum.de/en/flugwerft/information/) (Unterschleissheim), quite large, too bad it's not that close, recommended by Norberto
+* [Deutsches Museum Verkehrszentrum](http://www.deutsches-museum.de/en/verkehrszentrum/information/) (Schwantalerhöhe), flat and wide, recommended by Norberto
+* [Museum Mensch und Natur](http://www.mmn-muenchen.de/), right next to Nymphenburg Schloss, recommended by Norberto
 * Picnic / play in the little stream in the [Rosengarten](http://www.sueddeutsche.de/muenchen/alternative-sehenswuerdigkeiten-wo-muenchen-noch-urig-ist-1.488877-3) by the Isar (Sachsenstraße 2 (Nähe Schyrenbad), U-Bahn Kolumbusplatz U1/U2), recommended by Torsten.
 * [Beerencafé in Lochhausen, Johanneskirchen and Feldmoching](http://www.hofreiter.de/beerencaf%C3%A9/) recommended by Torsten.
 
