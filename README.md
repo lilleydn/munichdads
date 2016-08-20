@@ -1,9 +1,14 @@
 # munichdads
 
-* [Resources in Munich](https://github.com/dernorberto/munichdads/blob/master/resources.munich.md)
-  * meant to replace [meetup pages](http://www.meetup.com/Munich-Dads-Meetup/pages/20718329/Resources_%28aka_stuff_to_check_out%29/)
+Welcome to this munich dads information repository.
 
-Tip:
+Let's start with...
+* [Places to go to](https://github.com/dernorberto/munichdads/blob/master/resources.munich.md)
+
+You might also be interested in...
+* [online resources written by other dads](https://github.com/dernorberto/munichdads/blob/master/resources.online.md)
+
+If you'd like to contribute, check out how MarkDown works:
 * learn your markdown for github [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 Notes:
