@@ -12,6 +12,8 @@
 * If it's raining, [Wichtelwerk](http://www.wichtel-werk.de/) in Aubing (awesome indoor playground). Wear comfy clothes bc you'll work up
 * [Deutsches Museum](http://www.deutsches-museum.de/en/information) (Museumsinsel)
 * [Bayerische Staatssammlung für Paläontologie und Geologie](http://www.palmuc.de/bspg/index.php?option=com_content&view=article&id=77&Itemid=49)
+* [Playmobil FunPark](www.playmobil-funpark.de/en)
+* [LEGOLAND Deutschland](http://www.legoland.de/en/)
 
 ## the ones that don't really work
 * [Museum Fünf Kontinente](http://www.museum-fuenf-kontinente.de/services/anfahrt.html) better suited for grownups and kids 6+
