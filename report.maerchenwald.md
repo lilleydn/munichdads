@@ -10,11 +10,11 @@
 * the wandering path all around the park has lots of vitrines showing famous fairytales narrated in German and in English
 * ...
 
-** Not so great
+## Not so great
 * coffee is crap
 * food is expensive of course
 * parking can be a pain if you get there past 11h00
 
-Ideal for
+## Ideal for
 * kids that can run up stairs, climb stuff etc
 * parents that don't mind spending a whole day there
